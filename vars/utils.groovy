@@ -1,3 +1,3 @@
 def welcome(name) {
-    echo "Welcome ${name}"
+    echo "Hey, Welcome ${name} to Jenkins"
 }
